@@ -2,7 +2,7 @@
 
 and Welcome to my GitHub Profile!
 
-My Name is Louis, or Spirit, and I'm a Developer from Germany. I have knowledge in HTML and CSS.
+#### My Name is Louis, or Spirit, and I'm a Developer from Germany. I have knowledge in HTML and CSS.
 
 - 🔭 I’m currently working on:
   My own website (codedotspirit.com);
