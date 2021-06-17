@@ -9,9 +9,6 @@ and welcome to my GitHub Profile!
   
   • Getting a BetterDiscord Theme working
   
-  • Getting out of Silver in Valorant
-  
-  
 ## 🌱 I’m currently learning:
 
   • C++
