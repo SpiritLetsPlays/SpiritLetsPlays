@@ -7,8 +7,6 @@ and welcome to my GitHub Profile!
 
   • My own website (codedotspirit.com)
   
-  • Getting a BetterDiscord Theme working
-  
 ## 🌱 I’m currently learning:
 
   • C++
