@@ -15,7 +15,7 @@ and welcome to my GitHub Profile!
   
   • Python
   
-  
+#Stats
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiritLetsPlays&show_icons=true&theme=synthwave)
 
