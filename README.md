@@ -9,11 +9,7 @@ and welcome to my GitHub Profile!
   
 ## 🌱 I’m currently learning:
 
-  • C++
-  
-  • JavaScript
-  
-  • Python
+  • JavaScript/jQuery
   
 # Stats
   
