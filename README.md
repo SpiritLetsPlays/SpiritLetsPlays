@@ -6,6 +6,7 @@ and welcome to my GitHub Profile!
 ## 🔭 I’m currently working on:
 
   • My own website (codedotspirit.com)
+  • The Korewana Discord Bot Dashboard
   
 ## 🌱 I’m currently learning:
 
