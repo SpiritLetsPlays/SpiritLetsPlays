@@ -2,11 +2,10 @@
 
 and welcome to my GitHub Profile!
 
-### My Name is Louis, or Spirit, and I'm a Developer from Germany. I have knowledge in HTML and CSS.
+### My Name is Louis, aka. Spirit, and I'm a Developer from Germany. I have knowledge in HTML and CSS.
 ## 🔭 I’m currently working on:
 
-  • My own website (codedotspirit.com)
-  • The Korewana Discord Bot Dashboard
+  • My own website (codedotspirit.dev) 
   
 ## 🌱 I’m currently learning:
 
