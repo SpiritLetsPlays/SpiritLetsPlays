@@ -9,5 +9,4 @@ and welcome to my GitHub Profile!
   
 # Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiritLetsPlays&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritLetsPlays&layout=compact)
