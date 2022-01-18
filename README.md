@@ -5,8 +5,6 @@ and welcome to my GitHub Profile!
 ### My Name is Louis, aka. Spirit, and I'm a Developer from Germany. I have knowledge in HTML and CSS.
 ## 🔭 I’m currently working on:
 
-  • [My own website](https://codedotspirit.dev/)
-  
   • [A free statistics tracker for VALORANT](https://valtracker.gg/)
   
 # Stats
